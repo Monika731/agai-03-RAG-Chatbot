@@ -1,0 +1,194 @@
+[
+  {
+    "question": "I'm new to machine learning and I've heard great things about this course, but I'm not sure if it's right for me. Who is this course recommended for and what kind of experience do I need to have?",
+    "answer": "This course is recommended for beginners with basic coding skills, such as knowledge of for loops, functions, and if/else statements, as well as high school-level math. You don't need any prior experience with machine learning, but having a basic understanding of arithmetic and algebra will be helpful. The course is designed to be flexible and can be completed at your own pace, making it a great option for those who are just starting out in the field. With 3 modules and 10 hours of learning per week, you can gain a solid foundation in supervised machine learning in just a few weeks.",
+    "source_page": "https://www.coursera.org/learn/machine-learning",
+    "course_title": "Supervised Machine Learning: Regression and Classification"
+  },
+  {
+    "question": "I'm interested in taking this course, but I'm worried it might be too difficult or take up too much time. How long does the course take to complete and what kind of skills can I expect to gain?",
+    "answer": "The course is designed to be completed in 3 weeks, with a flexible schedule that allows you to learn at your own pace. In terms of skills, you can expect to gain hands-on experience building machine learning models in Python using popular libraries like NumPy and scikit-learn. You'll also learn how to build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression. By the end of the course, you'll have a solid foundation in supervised machine learning and be able to apply your skills to real-world problems.",
+    "source_page": "https://www.coursera.org/learn/machine-learning",
+    "course_title": "Supervised Machine Learning: Regression and Classification"
+  },
+  {
+    "question": "I'm new to machine learning and AI, is this course suitable for a beginner like me?",
+    "answer": "Yes, this course is designed for beginners, and it's a great introduction to machine learning. The course assumes only basic coding skills, such as for loops, functions, and if/else statements, as well as high school-level math. The instructors, including Andrew Ng, will guide you through the fundamental concepts and help you develop practical machine learning skills. With a beginner-friendly approach, you'll be able to learn at your own pace and gain a solid foundation in machine learning.",
+    "source_page": "https://www.coursera.org/specializations/machine-learning-introduction",
+    "course_title": "Machine Learning"
+  },
+  {
+    "question": "What kind of job opportunities can I expect after completing this machine learning specialization, and is it worth the time investment?",
+    "answer": "Completing this machine learning specialization can open up a wide range of job opportunities in the field of AI, including roles such as machine learning engineer, data scientist, and business analyst. The skills you gain in this course, such as supervised and unsupervised learning, neural networks, and deep learning, are highly valued by employers. With a strong foundation in machine learning, you can expect to increase your career prospects and potentially earn a higher salary. The course is free to enroll, and with a time investment of 10 hours a week for 2 months, it's a valuable and affordable way to gain in-demand skills.",
+    "source_page": "https://www.coursera.org/specializations/machine-learning-introduction",
+    "course_title": "Machine Learning"
+  },
+  {
+    "question": "I'm interested in taking the Neural Networks and Deep Learning course, but I'm not sure if I have the right background. Who is this course recommended for?",
+    "answer": "This course is recommended for individuals with intermediate level experience, particularly those with basic programming skills in Python, including understanding of for loops, if/else statements, and data structures. It's also helpful to have a basic grasp of linear algebra and machine learning concepts. If you have these prerequisites, you'll be well-suited to gain insight into the topic and learn the fundamentals of neural networks and deep learning.",
+    "source_page": "https://www.coursera.org/learn/neural-networks-deep-learning",
+    "course_title": "Neural Networks and Deep Learning"
+  },
+  {
+    "question": "I'm worried that the course will be too difficult or time-consuming. How long does the course take to complete and what kind of skills can I expect to gain?",
+    "answer": "The course is designed to be completed in 3 weeks, with approximately 10 hours of effort per week, making it a manageable commitment for those with busy schedules. By the end of the course, you'll gain a solid understanding of neural networks and deep learning, including the foundational concepts and techniques. You'll also develop skills in Python programming, linear algebra, and machine learning, which can be applied to a variety of careers in AI and data science. With the skills gained from this course, you can pursue career paths such as AI engineer, data scientist, or machine learning specialist.",
+    "source_page": "https://www.coursera.org/learn/neural-networks-deep-learning",
+    "course_title": "Neural Networks and Deep Learning"
+  },
+  {
+    "question": "I'm new to machine learning, is this Deep Learning course suitable for me?",
+    "answer": "This course is recommended for individuals with intermediate level experience in Python and a basic grasp of linear algebra and machine learning. If you're new to machine learning, you may want to start with some introductory courses before enrolling in this specialization. However, if you're eager to learn, you can still enroll and learn at your own pace, as the course provides in-depth knowledge of deep learning fundamentals.",
+    "source_page": "https://www.coursera.org/specializations/deep-learning",
+    "course_title": "Deep Learning"
+  },
+  {
+    "question": "Who is this Deep Learning specialization recommended for and what kind of career outcomes can I expect?",
+    "answer": "This specialization is recommended for individuals who want to become machine learning experts, such as data scientists, AI engineers, or researchers. With this course, you can expect to gain the skills needed to break into the AI industry and start a career in deep learning. The course is taught by renowned instructors, including Andrew Ng, and has received a 4.8 rating from over 147,000 reviews, indicating its effectiveness in helping students achieve their career goals.",
+    "source_page": "https://www.coursera.org/specializations/deep-learning",
+    "course_title": "Deep Learning"
+  },
+  {
+    "question": "I'm interested in learning about AI, but I don't have any prior experience. Is this course suitable for me and what can I expect to learn?",
+    "answer": "This course, AI For Everyone, is designed for beginners with no prior experience required. You'll gain insight into the fundamentals of AI, including data ethics, machine learning, and deep learning. The course is structured into 4 modules, which you can complete at your own pace, and it's expected to take around 7 hours to finish.",
+    "source_page": "https://www.coursera.org/learn/ai-for-everyone",
+    "course_title": "AI For Everyone"
+  },
+  {
+    "question": "Who is this course recommended for and what kind of career outcomes can I expect after completing it?",
+    "answer": "This course is recommended for anyone who wants to learn about AI, regardless of their technical background. It's particularly useful for business professionals, managers, and leaders who want to understand how AI can be applied in their organizations. According to the course information, 91% of learners achieved a positive career outcome, and you can expect to gain skills in AI literacy, responsible AI, and AI product strategy, which can be valuable in a variety of roles.",
+    "source_page": "https://www.coursera.org/learn/ai-for-everyone",
+    "course_title": "AI For Everyone"
+  },
+  {
+    "question": "Who is this Generative AI with Large Language Models course recommended for and what kind of experience do I need to have?",
+    "answer": "This course is recommended for individuals with an intermediate level of experience, particularly those with some background in coding in Python. It's suitable for learners who want to gain foundational knowledge and practical skills in generative AI. If you have experience in machine learning or natural language processing, you'll find this course to be a great fit. The instructors assume you have a basic understanding of Python, so it's essential to have some coding experience before enrolling.",
+    "source_page": "https://www.coursera.org/learn/generative-ai-with-llms",
+    "course_title": "Generative AI with Large Language Models"
+  },
+  {
+    "question": "How long will it take to complete the Generative AI with Large Language Models course and what skills can I expect to gain?",
+    "answer": "The course duration is approximately 16 hours and 23 minutes, spread over 3 modules. By completing this course, you'll gain practical skills and a functional understanding of how generative AI works, as well as insight into the latest research on Gen AI. You'll learn how companies are creating value with cutting-edge technology and gain a deeper understanding of how to deploy generative AI in various applications. The skills you gain will be valuable in a variety of career paths, including AI engineering and data science.",
+    "source_page": "https://www.coursera.org/learn/generative-ai-with-llms",
+    "course_title": "Generative AI with Large Language Models"
+  },
+  {
+    "question": "I'm new to AI and large language models, is this course suitable for beginners like me?",
+    "answer": "Yes, this course is designed for beginners and covers the fundamentals of prompt engineering for ChatGPT. The course is rated as a beginner level, so you don't need any prior experience with AI or large language models to enroll. The instructor, Vanderbilt University, will guide you through the course material, which includes how to apply prompt engineering to effectively work with large language models and create complex prompt-based applications.",
+    "source_page": "https://www.coursera.org/learn/prompt-engineering",
+    "course_title": "Prompt Engineering for ChatGPT"
+  },
+  {
+    "question": "What kind of skills can I expect to gain from this course, and how can I apply them in my career?",
+    "answer": "By taking this course, you can expect to gain skills such as how to use prompt patterns to tap into powerful capabilities within large language models and how to create complex prompt-based applications for your life, business, or education. These skills can be applied in various career paths, including project management, education, and personal automation. The course is also part of several specializations, such as the AI Agent Developer Specialization and the Generative AI Assistants Specialization, which can help you develop a deeper understanding of AI and its applications.",
+    "source_page": "https://www.coursera.org/learn/prompt-engineering",
+    "course_title": "Prompt Engineering for ChatGPT"
+  },
+  {
+    "question": "I'm new to machine learning and Python, is this course suitable for me?",
+    "answer": "This course is recommended for individuals with an intermediate level of knowledge, specifically those with a working knowledge of Python, data analysis, and visualization techniques. If you're new to these topics, it's recommended that you take some introductory courses before enrolling in this one. The course instructors, including Joseph Santarcangelo, provide clear explanations, but some prior knowledge is assumed. You can still enroll and learn, but be prepared to put in extra effort to catch up.",
+    "source_page": "https://www.coursera.org/learn/machine-learning-with-python",
+    "course_title": "Machine Learning with Python"
+  },
+  {
+    "question": "What kind of skills can I expect to gain from this course, and how long will it take to complete?",
+    "answer": "By taking this course, you'll gain skills in explaining key concepts and tools involved in machine learning, applying core algorithms, and evaluating model performance using Python and scikit-learn. You'll also learn to build and assess end-to-end machine learning solutions on real-world datasets. The course duration is approximately 20 hours and 26 minutes, and it's recommended that you dedicate 10 hours per week over 2 weeks to complete it. With this course, you'll be well-prepared for a career in machine learning and data science.",
+    "source_page": "https://www.coursera.org/learn/machine-learning-with-python",
+    "course_title": "Machine Learning with Python"
+  },
+  {
+    "question": "I'm new to data science and don't have any prior experience, is this IBM Data Science course suitable for me?",
+    "answer": "Yes, this course is suitable for beginners with no prior experience in data science. The course is designed to build job-ready skills and must-have AI skills from the ground up, so you can start with the basics and progress to more advanced topics. The instructors, including the IBM Skills Network Team and other experienced professionals, will guide you through the course material in a way that's easy to understand and apply. By the end of the course, you'll have a solid foundation in data science and be prepared for a career in this field.",
+    "source_page": "https://www.coursera.org/professional-certificates/ibm-data-science",
+    "course_title": "IBM Data Science"
+  },
+  {
+    "question": "What kind of career outcomes can I expect after completing the IBM Data Science Professional Certificate, and who is this course recommended for?",
+    "answer": "After completing the IBM Data Science Professional Certificate, you can expect to have the skills and knowledge needed to pursue a career as a data scientist, data analyst, or other related roles. This course is recommended for anyone interested in pursuing a career in data science, including recent graduates, professionals looking to transition to a new field, and those looking to upskill or reskill in data science. The course is particularly well-suited for individuals who enjoy working with data, are curious about AI and machine learning, and want to develop job-ready skills that are in high demand across industries. By completing this course, you'll be well-prepared to take on challenging roles and contribute to the growing field of data science.",
+    "source_page": "https://www.coursera.org/professional-certificates/ibm-data-science",
+    "course_title": "IBM Data Science"
+  },
+  {
+    "question": "I'm completely new to programming, is this Python course suitable for me?",
+    "answer": "Yes, this course is beginner-friendly and designed for individuals with no prior programming experience. The instructor, Joseph Santarcangelo, will guide you through the basics of Python programming, including syntax, data types, and variables. You'll learn the fundamentals of Python and gain hands-on experience with popular libraries like Pandas and Numpy.",
+    "source_page": "https://www.coursera.org/learn/python-for-applied-data-science-ai",
+    "course_title": "Python for Data Science, AI & Development"
+  },
+  {
+    "question": "What kind of skills can I expect to gain from this course, and how will it help my career?",
+    "answer": "By taking this course, you'll develop a foundational understanding of Python programming and learn how to apply it to data science, AI, and development. You'll gain practical skills in data structures, web scraping, and working with REST APIs, making you a competitive candidate for roles in data analysis, software development, and more. The skills you learn in this course can be applied to various career paths, including data science, software engineering, and AI development, and can be a great starting point for professional certifications like the IBM Data Science Professional Certificate.",
+    "source_page": "https://www.coursera.org/learn/python-for-applied-data-science-ai",
+    "course_title": "Python for Data Science, AI & Development"
+  },
+  {
+    "question": "I'm new to natural language processing, is this course suitable for a beginner like me?",
+    "answer": "While the course is labeled as intermediate level, it's still a great resource for beginners to learn from. However, it's recommended to have a working knowledge of machine learning, intermediate Python experience, and proficiency in calculus, linear algebra, and statistics. If you're new to these topics, you may want to take some prerequisite courses before enrolling in this specialization. With dedication and hard work, you can still learn a lot from this course and gain valuable skills in NLP.",
+    "source_page": "https://www.coursera.org/specializations/natural-language-processing",
+    "course_title": "Natural Language Processing"
+  },
+  {
+    "question": "Who is this Natural Language Processing Specialization recommended for, and what kind of career outcomes can I expect?",
+    "answer": "This course is recommended for individuals with an intermediate level of experience in machine learning and programming, particularly those interested in pursuing a career in NLP, AI, or data science. The specialization is designed to help you master cutting-edge NLP techniques, which can lead to career opportunities in industries such as tech, healthcare, or finance. By completing this course, you can gain the skills and knowledge needed to become an NLP specialist, AI engineer, or data scientist, and stay up-to-date with the latest advancements in the field. With over 155,000 learners already enrolled, you'll be joining a large community of like-minded professionals.",
+    "source_page": "https://www.coursera.org/specializations/natural-language-processing",
+    "course_title": "Natural Language Processing"
+  },
+  {
+    "question": "I'm new to deep learning and I'm not sure if I should take this course. Who is the Sequence Models course recommended for?",
+    "answer": "This course is recommended for individuals with intermediate level experience in Python and machine learning. You should have a basic grasp of linear algebra, understanding of for loops, if/else statements, and data structures. If you have some experience with programming and want to learn about sequence models, this course is a great fit. It's part of the Deep Learning Specialization, so it's ideal for those who want to dive deeper into deep learning concepts.",
+    "source_page": "https://www.coursera.org/learn/nlp-sequence-models",
+    "course_title": "Sequence Models"
+  },
+  {
+    "question": "How long will it take to complete the Sequence Models course and what kind of skills can I expect to gain?",
+    "answer": "The course duration is approximately 37 hours and 7 minutes, and it's designed to be completed over 4 weeks with a flexible schedule of 10 hours per week. By the end of the course, you'll gain insight into sequence models and learn the fundamentals of deep learning. You'll have a solid understanding of sequence models and their applications, which can be applied to various career paths, including natural language processing and machine learning engineering. The course is taught by renowned instructors, including Andrew Ng, and has a high rating of 4.8 out of 5 stars.",
+    "source_page": "https://www.coursera.org/learn/nlp-sequence-models",
+    "course_title": "Sequence Models"
+  },
+  {
+    "question": "I'm new to deep learning and want to take this Convolutional Neural Networks course, but I'm not sure if I have the right background. Who is this course recommended for?",
+    "answer": "This course is recommended for individuals with intermediate level experience in Python programming and a basic understanding of linear algebra and machine learning concepts. If you have a grasp of basic programming concepts, such as for loops and if/else statements, and some experience with data structures, you'll be well-prepared for this course. The instructors, including Andrew Ng, assume that students have a solid foundation in these areas before diving into convolutional neural networks.",
+    "source_page": "https://www.coursera.org/learn/convolutional-neural-networks",
+    "course_title": "Convolutional Neural Networks"
+  },
+  {
+    "question": "How long will it take to complete this course and what kind of skills can I expect to gain?",
+    "answer": "The course is designed to be completed in 4 weeks, with a time commitment of 10 hours per week, and covers 4 modules. By the end of the course, you'll have gained a deep understanding of convolutional neural networks and how to apply them to real-world problems. You'll learn how to build and train convolutional neural networks using popular deep learning frameworks, and gain practical skills in computer vision and image processing. This will open up career opportunities in fields such as computer vision, robotics, and autonomous vehicles.",
+    "source_page": "https://www.coursera.org/learn/convolutional-neural-networks",
+    "course_title": "Convolutional Neural Networks"
+  },
+  {
+    "question": "I'm completely new to data science, is this course suitable for me and what kind of background do I need to have?",
+    "answer": "This course is perfect for you as it's designed for beginners with no prior experience or degree required. The course covers the fundamentals of data science, including its importance and various career paths. You'll learn from experienced instructors from IBM, and by the end of the course, you'll have a solid understanding of what data science is and how it's applied in the real world. The course is self-paced, so you can learn at your own speed and convenience.",
+    "source_page": "https://www.coursera.org/learn/what-is-datascience",
+    "course_title": "What is Data Science?"
+  },
+  {
+    "question": "How long will it take to complete this course and what skills can I expect to gain from it?",
+    "answer": "The course duration is approximately 11 hours and 53 minutes, and it's designed to be completed at your own pace over a week with around 10 hours of effort per week. By the end of the course, you'll have gained skills such as defining data science and its importance, describing various career paths, and explaining why data science is in-demand. The course is rated 4.7 out of 5 by over 77,000 learners, so you can expect a high-quality learning experience. You'll also learn from seasoned data science professionals who share their advice and insights to help you get started in your data science journey.",
+    "source_page": "https://www.coursera.org/learn/what-is-datascience",
+    "course_title": "What is Data Science?"
+  },
+  {
+    "question": "I'm new to data analysis and Python, is this course suitable for me?",
+    "answer": "This course is designed for intermediate learners, so it's recommended that you have a working knowledge of Python and Jupyter Notebooks before enrolling. If you're a complete beginner, you may want to start with some introductory courses before taking this one. However, if you're willing to put in some extra effort, you can still learn a lot from this course. The instructor provides clear explanations and examples to help you understand the concepts.",
+    "source_page": "https://www.coursera.org/learn/data-analysis-with-python",
+    "course_title": "Data Analysis with Python"
+  },
+  {
+    "question": "What kind of skills can I expect to gain from this course, and how long will it take to complete?",
+    "answer": "By taking this course, you'll gain skills in constructing Python programs to clean and prepare data for analysis, analyzing real-world datasets using libraries like Pandas and NumPy, and applying data operation techniques using dataframes. You'll also learn how to develop and evaluate regression models using Scikit-learn. The course consists of 6 modules and takes approximately 16 hours and 59 minutes to complete, which can be spread over 2 weeks at 10 hours per week. This will give you a solid foundation in data analysis with Python and prepare you for a career in data science or analysis.",
+    "source_page": "https://www.coursera.org/learn/data-analysis-with-python",
+    "course_title": "Data Analysis with Python"
+  },
+  {
+    "question": "I'm new to data science and I'm interested in taking this course, but I'm not sure if it's right for me. Who is the Applied Data Science Capstone course recommended for?",
+    "answer": "This course is recommended for individuals with an intermediate level of experience in data science, particularly those who have a working knowledge of Python programming, data analysis, data visualization, SQL, model development, and evaluation. It's the final course in the IBM Data Science Professional Certificate, so it's ideal for those who have already completed the previous courses in the series. If you're just starting out, you may want to consider taking the earlier courses in the series before enrolling in this one.",
+    "source_page": "https://www.coursera.org/learn/applied-data-science-capstone",
+    "course_title": "Applied Data Science Capstone"
+  },
+  {
+    "question": "I'm considering enrolling in the Applied Data Science Capstone course, but I'm concerned about the difficulty level and the time commitment required. Can you tell me more about the course duration and the skills I'll gain?",
+    "answer": "The course is approximately 14 hours and 7 minutes long, and it's designed to help you demonstrate proficiency in data science and machine learning techniques using a real-world data set. By the end of the course, you'll have gained skills in data collection, data wrangling, exploratory data analysis, data visualization, model development, and model evaluation, and you'll be able to write Python code to create machine learning models and evaluate their results. The course has a 4.7 rating and is taught by experienced instructors from IBM, so you can be confident that you'll receive high-quality instruction and support.",
+    "source_page": "https://www.coursera.org/learn/applied-data-science-capstone",
+    "course_title": "Applied Data Science Capstone"
+  }
+]
